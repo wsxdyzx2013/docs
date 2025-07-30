@@ -1,0 +1,1 @@
+JavaScript：(()=>{窗户.位置.href=窗户.位置.href.取代(/https：\/\/docs\.g我thub\.co米/，'http://localhost:4000').取代(/https：\/\/.*\..*\.(co米|net|dev|我O|org|米)/，'http://localhost:4000')})()
